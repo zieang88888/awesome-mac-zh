@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="220" viewBox="0 0 960 220">
+  <rect width="960" height="220" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="10" height="220" fill="#B23A2E"/>
+  <g font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif" text-anchor="middle">
+    <circle cx="190" cy="72" r="30" fill="#B23A2E"/>
+    <text x="190" y="81" font-size="22" font-weight="700" fill="#FFFFFF">1</text>
+    <text x="190" y="138" font-size="20" font-weight="700" fill="#1F1B16">挑分类</text>
+    <text x="190" y="168" font-size="13" fill="#5A5248">25 大类锁定使用场景</text>
+
+    <line x1="245" y1="72" x2="325" y2="72" stroke="#B23A2E" stroke-width="2.5"/>
+    <polygon points="325,65 338,72 325,79" fill="#B23A2E"/>
+
+    <circle cx="480" cy="72" r="30" fill="#B23A2E"/>
+    <text x="480" y="81" font-size="22" font-weight="700" fill="#FFFFFF">2</text>
+    <text x="480" y="138" font-size="20" font-weight="700" fill="#1F1B16">找应用</text>
+    <text x="480" y="168" font-size="13" fill="#5A5248">1,325 款应用按类查找</text>
+
+    <line x1="535" y1="72" x2="615" y2="72" stroke="#B23A2E" stroke-width="2.5"/>
+    <polygon points="615,65 628,72 615,79" fill="#B23A2E"/>
+
+    <circle cx="770" cy="72" r="30" fill="#B23A2E"/>
+    <text x="770" y="81" font-size="22" font-weight="700" fill="#FFFFFF">3</text>
+    <text x="770" y="138" font-size="20" font-weight="700" fill="#1F1B16">装进 Mac</text>
+    <text x="770" y="168" font-size="13" fill="#5A5248">跳转官网或 App Store</text>
+  </g>
+</svg>

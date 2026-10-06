@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260">
+  <rect width="960" height="260" fill="#FAF6EF"/>
+  <rect x="0" y="0" width="10" height="260" fill="#B23A2E"/>
+  <text x="480" y="92" text-anchor="middle" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="46" font-weight="700" fill="#1F1B16">Awesome Mac · 中文版</text>
+  <rect x="410" y="108" width="140" height="4" rx="2" fill="#B23A2E"/>
+  <text x="480" y="140" text-anchor="middle" font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="19" fill="#1F1B16">115,000+ 星标的 macOS 应用大全 · 中文导航</text>
+  <g font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif" font-size="15" font-weight="600" fill="#B23A2E">
+    <rect x="226" y="180" width="125" height="34" rx="17" fill="none" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="288.5" y="202" text-anchor="middle">★ 115,000+</text>
+    <rect x="375" y="180" width="97" height="34" rx="17" fill="none" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="423.5" y="202" text-anchor="middle">25 大分类</text>
+    <rect x="496" y="180" width="124" height="34" rx="17" fill="none" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="558" y="202" text-anchor="middle">1,325 款应用</text>
+    <rect x="644" y="180" width="90" height="34" rx="17" fill="none" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="689" y="202" text-anchor="middle">CC0 公益</text>
+  </g>
+</svg>

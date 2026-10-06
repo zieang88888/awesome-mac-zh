@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="300" viewBox="0 0 960 300">
+  <rect width="960" height="300" fill="#FAF6EF"/>
+  <g font-family="Noto Sans CJK SC, PingFang SC, Microsoft YaHei, sans-serif" text-anchor="middle">
+    <rect x="30" y="45" width="210" height="210" rx="14" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="135" y="126" font-size="38" font-weight="700" fill="#B23A2E">115,465</text>
+    <text x="135" y="162" font-size="17" font-weight="600" fill="#1F1B16">GitHub 星标</text>
+    <text x="135" y="196" font-size="12.5" fill="#5A5248">API 实测 · 2026-10-06</text>
+
+    <rect x="260" y="45" width="210" height="210" rx="14" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="365" y="126" font-size="38" font-weight="700" fill="#B23A2E">25+42</text>
+    <text x="365" y="162" font-size="17" font-weight="600" fill="#1F1B16">主分类 / 子类</text>
+    <text x="365" y="196" font-size="12.5" fill="#5A5248">覆盖读写到系统优化</text>
+
+    <rect x="490" y="45" width="210" height="210" rx="14" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="595" y="126" font-size="38" font-weight="700" fill="#B23A2E">1,325</text>
+    <text x="595" y="162" font-size="17" font-weight="600" fill="#1F1B16">收录应用条目</text>
+    <text x="595" y="196" font-size="12.5" fill="#5A5248">源 README 逐条计数</text>
+
+    <rect x="720" y="45" width="210" height="210" rx="14" fill="#FFFFFF" stroke="#B23A2E" stroke-width="1.5"/>
+    <text x="825" y="126" font-size="38" font-weight="700" fill="#B23A2E">CC0</text>
+    <text x="825" y="162" font-size="17" font-weight="600" fill="#1F1B16">源项目许可</text>
+    <text x="825" y="196" font-size="12.5" fill="#5A5248">本导航仓采用 MIT</text>
+
+    <text x="480" y="282" font-size="12" fill="#5A5248">数据来源：github.com/jaywcjlove/awesome-mac</text>
+  </g>
+</svg>
